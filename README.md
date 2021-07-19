@@ -10,7 +10,7 @@ Hi there 👋, I’m Guy Ben David 👨‍💻
 
  - 💪 I'm a self-taught developer, continuously searching for challenges and knowledge.
  
- - 
+ - 🎈 I'm a great team player, always happy to help others.
 
 
 🛠  Tech Stack
